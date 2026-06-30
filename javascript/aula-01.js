@@ -60,5 +60,16 @@ moeda.toFixed(2)
 moeda.toFixed(2).replace('.',',')
 moeda.toLocaleString('pt-br', {style:'currency', currency:'BRL'})-->usado para moedas */
 
-// Exercício 04
+     // Exercício 04
 
+   // Operadores em JS
+
+   /* 5 + 2 --> 7 --> Adição
+      5 - 2 --> 3 --> Subtração
+      5 * 2 --> 10 --> multiplicação
+      5 / 2 --> 2.5 --> Divisão
+      5 % 2 --> 1 --> Resto da divisão
+      5 ** 2 --> 25 --> Potência 
+      */
+
+      
